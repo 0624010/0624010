@@ -5,11 +5,8 @@
 ##### 0624010 王釋賢
 ###### 0624010 王釋賢
 
-```ruby
-def index
-  puts "hello world"
-end
-``` 
+
+
 
 :kissing_closed_eyes:
 :smirk:
